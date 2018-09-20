@@ -1,0 +1,31 @@
+_repo: Popular-Official-Guide-to-the-New-York-Zoological-Park-September-1915-Thirteenth-Edition_53141
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hornaday, William T. (William Temple)
+    aliases:
+    - Hornaday, W. T. (William Temple)
+    - Hornaday, Dr. William T.
+    - Hornaday, William Temple
+    birthdate: 1854
+    deathdate: 1937
+    gutenberg_agent_id: '1920'
+    url: http://www.gutenberg.org/2009/agents/1920
+    wikipedia: http://en.wikipedia.org/wiki/William_Temple_Hornaday
+description: ''
+gutenberg_issued: '2016-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53141'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York Zoological Park'
+- !lcc 'QL'
+- GITenberg
+title: 'Popular Official Guide to the New York Zoological Park (September 1915)
+
+  Thirteenth Edition'
+url: http://www.gutenberg.org/ebooks/53141
